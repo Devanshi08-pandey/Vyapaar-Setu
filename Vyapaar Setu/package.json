@@ -1,0 +1,10 @@
+{
+  "name": "vyapaar-setu",
+  "version": "1.0.0",
+  "description": "VyapaarSetu - AI-Powered Hyperlocal Marketplace",
+  "scripts": {
+    "dev": "cd frontend && npm run dev",
+    "install:all": "cd frontend && npm install",
+    "build": "cd frontend && npm run build"
+  }
+}
