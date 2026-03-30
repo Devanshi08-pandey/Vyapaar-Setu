@@ -6,7 +6,7 @@ const Footer = () => {
   const { t } = useContext(LanguageContext);
 
   return (
-    <footer className="w-full bg-[#030308] text-brand-text pt-20 pb-8 px-6 md:px-16 rounded-t-[3.5rem] mt-[-2rem] relative z-20">
+    <footer className="w-full bg-[FFC570] text-brand-text pt-20 pb-8 px-6 md:px-16 rounded-t-[3.5rem] mt-[-2rem] relative z-20">
       <div className="max-w-7xl mx-auto grid grid-cols-1 md:grid-cols-12 gap-12 mb-20">
         
         {/* Brand & Tagline */}
