@@ -1,0 +1,1 @@
+AI-enabled digital marketplace designed to empower local vendors, service providers, and small manufacturers by directly connecting them with nearby customers to digitalize local businesses, increase their visibility, and promote a sustainable local economy.
